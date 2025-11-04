@@ -1,0 +1,39 @@
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.env
+# dependencies
+node_modules/
+package-lock.json
+
+# build output
+dist/
+build/
+
+# misc
+.DS_Store
+.env
+*.local
+
+# IDE files
+.vscode/
+.idea/
