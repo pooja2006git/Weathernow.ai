@@ -14,7 +14,8 @@
 
 ## 🖼️ Preview
 
-![WeatherNow Dashboard](assets/Dashboard (2).jpeg)
+![WeatherNow Dashboard](https://raw.githubusercontent.com/pooja2006git/Weathernow.ai/main/Dashboard%20(2).jpeg)
+
 
 ## 🧠 Overview
 
