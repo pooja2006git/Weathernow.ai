@@ -13,7 +13,6 @@
 
 ## 🖼️ Preview
 
-|  |
-|:--:|:--:|:--:|
-| ![Sunny](assets/sunny.png) 
+
+| ![Sunny](Dashboard (2).jpeg) 
 
