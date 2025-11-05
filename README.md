@@ -10,3 +10,10 @@
 > A modern, animated weather dashboard built with React + Tailwind CSS, fetching live weather data from OpenWeatherMap and generating natural summaries using HuggingFace AI.
 
 🔗 **Live Demo:** https://weathernow-ai.netlify.app/
+
+## 🖼️ Preview
+
+|  |
+|:--:|:--:|:--:|
+| ![Sunny](assets/sunny.png) 
+
