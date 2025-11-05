@@ -44,7 +44,7 @@ It features smooth scene transitions (sunny, rain, thunder) and an AI-powered we
 
 ---
 
-### 🧾  Credits & Acknowledgment
+## 🧾  Credits & Acknowledgment
 
 ```md
 ## 🙌 Acknowledgments
