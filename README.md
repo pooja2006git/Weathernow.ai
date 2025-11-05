@@ -1,11 +1,12 @@
 # Weathernow.ai
 # 🌤️ WeatherNow — Real-Time Weather Dashboard
 
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue?logo=tailwindcss)
-![OpenWeatherMap](https://img.shields.io/badge/API-OpenWeatherMap-orange)
-![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-brightgreen)
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue?logo=tailwindcss)](https://tailwindcss.com/)
+[![OpenWeatherMap](https://img.shields.io/badge/API-OpenWeatherMap-orange)](https://openweathermap.org/api)
+[![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-brightgreen)](https://www.netlify.com/)
+
 
 > A modern, animated weather dashboard built with React + Tailwind CSS, fetching live weather data from OpenWeatherMap and generating natural summaries using HuggingFace AI.
 
@@ -13,8 +14,7 @@
 
 ## 🖼️ Preview
 
-
-| ![Sunny](Dashboard (2).jpeg) 
+![WeatherNow Dashboard](assets/Dashboard (2).jpeg)
 
 ## 🧠 Overview
 
@@ -52,3 +52,7 @@ It features smooth scene transitions (sunny, rain, thunder) and an AI-powered we
 - [HuggingFace Inference API](https://huggingface.co/inference-api)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Netlify](https://www.netlify.com/)
+
+## 📄 License
+This project is licensed under the MIT License — feel free to use and modify it.
+
